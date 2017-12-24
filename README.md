@@ -54,19 +54,14 @@ PokemOZ is a Pokemon fan-game made in 2015 for an IT UCL course. The game is wri
 
 ### Map
 
-    If you're moving in the field vision of a student, then he comes "speak" 
-    to you. (In the same way, if you're not moving, even if you're in his 
-    field vision, he lets you go)
-    If you walk on the grass and if the Probability parameter > 0, then a 
-    wild PokemOZ can attack you.
+If you're moving in the field vision of a student, then he comes "speak" to you. In the same way, if you're not moving, even if you're in their field vision, they let you go.
+
+If you walk on the grass and if the Probability parameter > 0, then a wild PokemOZ can attack you.
 
 ### Fight
 
-    You can either run or capture a wild PokemOZ, change or recover your 
-    fighting PokemOZ, or simply attack your opponent.
+You can either run or capture a wild PokemOZ, change or recover your fighting PokemOZ, or simply attack your opponent.
 
 ### Capture
-    
-    The more high the level and the HP of the wild PokemOZ are, the more 
-    difficult is his capture and your run's attempt, and so high is his 
-    attack's level of efficency.
+
+The more high the level and the HP of the wild PokemOZ are, the more difficult is his capture and your run's attempt, and so high is his attack's level of efficency.
