@@ -1,6 +1,6 @@
 # PokemOZ
 
-PokemOZ is a Pokemon fan-game made in 2015 for an IT UCL course. The game is written with the functional programming language Mozart/Oz. I got the maximum of points for the code. No modifications were made since the submission. Enjoy!
+PokemOZ is a Pokemon fan-game made for an IT UCL course. The game is written with the functional programming language Mozart/Oz. Maximum of points for the code. No modifications were made since the submission. Enjoy!
 
 ### Screenshots
 <img src="screens/0.png" width="250"><img src="screens/1.png" width="250">
